@@ -1,7 +1,7 @@
 # Express Webserver
 A Quick Express Webserver for Static Assets
 
-I use this webserver to kickstart orojects and protoypes invloving static assets
+I use this webserver to kickstart projects and protoypes invloving static assets
 ### Installation
 
 The [Node.js](https://nodejs.org/) Express framework to run.
