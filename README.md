@@ -9,7 +9,7 @@ The [Node.js](https://nodejs.org/) Express framework to run.
 Install the framework:
 
 ```sh
-cd yourdirectory
+$ cd yourdirectory
 $ npm install express
 ```
 
