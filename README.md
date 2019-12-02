@@ -2,11 +2,11 @@
 A Quick Express Webserver for Static Assets
 
 I use this webserver to kickstart projects and protoypes invloving static assets
-### Installation
+### Installation & Requirements
 
-The [Node.js](https://nodejs.org/) Express framework to run.
+[Node.js](https://nodejs.org/) & Express .
 
-Install the framework:
+Install Express:
 
 ```sh
 $ cd yourdirectory
@@ -21,4 +21,4 @@ $ node server.js
 ### Usage
 
 By default the webserver script exposes the files in your directory on the 8080 port.
-You can change the default port by modifying the port constant.
+You can change the default port by modifying the port value.
